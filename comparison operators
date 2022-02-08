@@ -1,0 +1,23 @@
+programme: 
+a= 10
+
+b = 20
+ 
+print(a > b)
+
+print(a < b)
+ 
+print(a == b)
+ 
+print(a != b)
+ 
+print(a >= b)
+
+print(a <= b)
+output:
+false
+true
+false
+true
+false
+true
